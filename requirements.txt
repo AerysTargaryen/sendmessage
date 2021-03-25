@@ -41,7 +41,7 @@ pyOpenSSL==0.15.1
 python-dateutil==1.5
 python-librtmp==0.3.0
 pyxdg==0.25
-PyYAML==3.11
+PyYAML==5.4
 requests==2.18.4
 shutilwhich==1.1.0
 singledispatch==3.4.0.3
