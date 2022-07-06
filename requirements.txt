@@ -16,7 +16,7 @@ html5lib==0.999999999
 idna==2.6
 ipaddress==1.0.16
 livestreamer==1.12.2
-lxml==3.5.0
+lxml==4.9.1
 mccabe==0.6.1
 mechanize==0.3.3
 mysqlclient==1.3.12
